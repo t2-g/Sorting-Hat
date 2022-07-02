@@ -18,11 +18,11 @@ This is a Flutter application to find one's Hogwarts Houses - Gryffindor, Huffle
 6. The whole app will be separated into five different modules namely main.dart, question.dart, answer.dart,quiz.dart and result.dart.
 
 ## UI
-### Register page
-<img src="" width="250">
+### Question page
+<img src="screenshots/WhatsApp Image 2022-07-02 at 6.06.39 PM.jpeg" width="250">
 
-### Main page
-<img src="" width="250">
+### Result page
+<img src="screenshots/WhatsApp Image 2022-07-02 at 6.07.03 PM.jpeg" width="250">
 
 
 This project is inspired by the course i did on Coursera.
